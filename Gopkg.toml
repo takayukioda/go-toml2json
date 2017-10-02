@@ -23,4 +23,4 @@
 
 [[constraint]]
   name = "github.com/pelletier/go-toml"
-  branch = "master"
+  version = "1.0.1"
